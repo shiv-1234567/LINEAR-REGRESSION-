@@ -1,0 +1,2 @@
+# LINEAR-REGRESSION-
+here i will post CODE TO DEMONSTRATE WHAT IS LINEAR REG AND ITS TYPES AND WILL ALSO LAERN HOW SKLEARN  LR MODEL WORKS BY CREATING A CLASS FOR  LINEAR REG so lets learn together and move forward towards learning Machine learning. 
